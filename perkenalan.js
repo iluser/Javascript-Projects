@@ -2,5 +2,6 @@ const nama = 'angel'
 const ummur = '21'
 const kelamin = 'perempuan'
 const asal = 'bandung'
+var kerja = 'jurnalis'
 
-console.log(`Halom, nama saya ${nama} dan saya bersal dari ${asal}`)
+console.log(`Halo, nama saya ${nama} dan saya bersal dari ${asal}.\nSaya adalah seorang ${kerja} di salah satu stasiun TV di kota ${asal}`)
