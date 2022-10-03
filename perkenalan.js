@@ -4,4 +4,4 @@ const kelamin = 'perempuan'
 const asal = 'bandung'
 var kerja = 'jurnalis'
 
-console.log(`Halo, nama saya ${nama} dan saya bersal dari ${asal}.\nSaya adalah seorang ${kerja} di salah satu stasiun TV di kota ${asal}`)
+console.log(`Halo, nama saya ${nama}, saya berusia ${umur} dan saya bersal dari ${asal}.\nSaya adalah seorang ${kerja} di salah satu stasiun TV di kota ${asal}`)
